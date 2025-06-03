@@ -1,4 +1,4 @@
-firts line
+lfirts line
 I never gonna give up
  The first file
 [33mcommit 72881f7ce7161a9134d50e31555729334c43cf6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
