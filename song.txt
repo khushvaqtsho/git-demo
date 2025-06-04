@@ -4,3 +4,120 @@ dkf aldf  kasd f
 a dk fja fakf o odfj ew
 
 i will add some lines to the file and by using git gui i will change it it would be faste 
+
+it is ready but we have to add something to it [33mcommit 7393ca6dcfd2451c646cf29999f2ad46fdd6b7ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Wed Jun 4 09:35:42 2025 +0500
+
+    changes in the file
+
+[33mcommit 07367874b7848e7b7b01d3fb799bd4cea4ae905f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 13:29:27 2025 +0500
+
+    Add a new line to song1.txt
+
+[33mcommit a03372a40a386a6b10e457b62aa7d6822d6154de[m
+Author: khushvaqtsho <160333799+khushvaqtsho@users.noreply.github.com>
+Date:   Tue Jun 3 13:27:48 2025 +0500
+
+    Update song1.txt
+
+[33mcommit 00c9882185c9626bb9545fe985f0d80f65cc75c6[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 13:21:52 2025 +0500
+
+    Add a new line to song1.txt
+
+[33mcommit dda29268e5c0c1a30c9916862336f73121fe1786[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 12:50:14 2025 +0500
+
+    Add a new line to song1.txt
+
+[33mcommit ff79739a92e15e9ef93064509f957c28986b8bf4[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 12:32:24 2025 +0500
+
+     changes in the fifth line song1.txt
+
+[33mcommit 2fe350bc8a958608af0688196797cb4517c34c79[m
+Author: khushvaqtsho <160333799+khushvaqtsho@users.noreply.github.com>
+Date:   Tue Jun 3 12:29:47 2025 +0500
+
+    Update song1.txt
+    
+    changes in the fifth line
+
+[33mcommit 2bb3d8399073c07f5d4e3270ea43f689505d874c[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 12:28:09 2025 +0500
+
+    Add a new line to song1.txt
+
+[33mcommit 1ae0eb4c4ce8184e36e575d4ae7ab6e6e758d590[m
+Author: khushvaqtsho <160333799+khushvaqtsho@users.noreply.github.com>
+Date:   Tue Jun 3 12:24:58 2025 +0500
+
+    Update song1.txt
+
+[33mcommit 6fdb2c1eb402e13070e81f2b91b4b796f0959c89[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 12:23:41 2025 +0500
+
+    Add a new line to song1.txt
+
+[33mcommit 5f90d4f770fdab3204e0a365933fea675a071520[m
+Merge: a6be97f 9533bcc
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 12:20:55 2025 +0500
+
+    Finish merge
+
+[33mcommit a6be97fc49bad1ae7cbe05bf61aa827be86ff0b0[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 12:11:06 2025 +0500
+
+    Add a new line to the song1.txt
+
+[33mcommit 9533bcc5661a3b75f084cd19af54d2dbd1fe35db[m
+Author: khushvaqtsho <160333799+khushvaqtsho@users.noreply.github.com>
+Date:   Tue Jun 3 11:59:18 2025 +0500
+
+    Update song1.txt
+
+[33mcommit 63ef305acbcfdb2dc10ed38e9769dde299dbc55a[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue Jun 3 11:50:08 2025 +0500
+
+    Add a new line to song1.txt
+
+[33mcommit 72881f7ce7161a9134d50e31555729334c43cf6a[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue May 27 16:08:15 2025 +0500
+
+    Add a new line to song1.txt
+
+[33mcommit 3a5869ad038db099dd2ee12b1417e5abed8f567f[m
+Author: khushvaqtsho05 <hukumatshoevkh@gmail.com>
+Date:   Tue May 27 16:01:37 2025 +0500
+
+    add song1.txt with lyrics
+
+[33mcommit a65f3069ff12e826ae3085164df50ba504e526f9[m
+Author: khushvaqtsho <160333799+khushvaqtsho@users.noreply.github.com>
+Date:   Tue May 27 15:04:43 2025 +0500
+
+    add two more lines to the song
+
+[33mcommit 38a7a2f2b9f37f5444ad8eedcf501b3138a0126f[m
+Author: khushvaqtsho <160333799+khushvaqtsho@users.noreply.github.com>
+Date:   Tue May 27 14:58:42 2025 +0500
+
+    Create song.txt
+
+[33mcommit c634e6c94f03592c0684586cf33267592ee95ec5[m
+Author: khushvaqtsho <160333799+khushvaqtsho@users.noreply.github.com>
+Date:   Sun May 18 19:10:59 2025 +0600
+
+    Initial commit
