@@ -5,6 +5,7 @@ Left its seeds while I was sleeping
 And the vision that was planted in my brain
 Still remains
 Within the sound of silence
+<<<<<<< HEAD
 In restless dreams I walked alone
 Narrow streets of cobblestone
 'Neath the halo of a street lamp
@@ -15,3 +16,5 @@ And touched the sound of silence.
 
 Orientation
 >>>>>>> 553c62040927294ef8a9ddaa500f7cb7b3c56c65
+=======
+>>>>>>> parent of 8ab51fc (Add the second part)
