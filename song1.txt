@@ -50,3 +50,4 @@ two differet conflicts
 
 Hello main
 First commit on feature branch
+Second commit on feature branch
